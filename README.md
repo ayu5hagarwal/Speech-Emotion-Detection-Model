@@ -153,14 +153,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish -->
 <!-- CONTRIBUTORS -->
-## Contributors
-This project exists thanks to all the people who contribute. [<a href="#contributing">Contributing</a>].
-
-<a href="https://github.com/Rahul5430/Speech-Emotion-Recognition-System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Rahul5430/Speech-Emotion-Recognition-System" />
-</a>
-
-See the [open issues](https://github.com/Rahul5430/Speech-Emotion-Recognition-System/issues) for a full list of proposed features (and known issues).
 
 
 
