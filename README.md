@@ -178,12 +178,6 @@ Be sure to read the [contribution guidelines](CONTRIBUTING.md) before contributi
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-<!-- CONTACT -->
-## Contact
-
-[Rahul Sharma](https://rahulsharma.vercel.app/) - acmcss@pec.edu.in - rahul2702sharma@gmail.com
-
-Project Link: [https://github.com/Rahul5430/Speech-Emotion-Recognition-System](https://github.com/Rahul5430/Speech-Emotion-Recognition-System)
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## Acknowledgments
